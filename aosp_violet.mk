@@ -44,3 +44,6 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 # Build with OOS ScreenRecorder
 
  TARGET_OOS_RECORDER := true
+
+# Live wallpapers
+TARGET_PIXEL_LWP := true
